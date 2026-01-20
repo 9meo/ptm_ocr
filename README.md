@@ -15,9 +15,9 @@ pip install ptm-ocr
 Create a `.env` file or export environment variables:
 
 ```bash
-export OCR_BASE_URL=https://api.opentyphoon.ai/v1
+export OCR_BASE_URL=https://openai.com/v1
 export OCR_API_KEY=your_api_key_here
-export OCR_MODEL=typhoon-ocr-7b
+export OCR_MODEL=ocr
 ```
 
 ### 2. Run OCR
